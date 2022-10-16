@@ -24,7 +24,7 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 
-export {
+const images = {
   airbnb,
   bill,
   binance,
@@ -51,3 +51,5 @@ export {
   people02,
   people03,
 };
+
+export default images;
