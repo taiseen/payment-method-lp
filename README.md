@@ -1,6 +1,6 @@
 > 14 - Oct - 2022
 
-# React + Tailwind CSS
+# React + Tailwind CSS | [Live Link](https://payment-lp.netlify.app)
 
 ## Modern UI/UX - Payment Method Landing Page 
 
