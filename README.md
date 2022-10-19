@@ -17,3 +17,9 @@ yarn dev
 * Responsive Mobile Menu
 * Draw Circle Component with styling
 
+
+<!-- https://youtu.be/_oO4Qi5aVZs -->
+
+<!-- https://github.com/adrianhajdin/project_hoobank -->
+
+<!-- https://app.netlify.com/sites/payment-lp/deploys -->
