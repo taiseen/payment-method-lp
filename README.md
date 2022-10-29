@@ -18,11 +18,5 @@ yarn dev
 * Applying gradient effects
 * Draw Circle Component with styling
 * Last items margin right programmatically control
+* img link click that open into a new tab
 * onClick={() => window.open(social.link)}
-
-
-<!-- https://youtu.be/_oO4Qi5aVZs -->
-
-<!-- https://github.com/adrianhajdin/project_hoobank -->
-
-<!-- https://app.netlify.com/sites/payment-lp/deploys -->
