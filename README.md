@@ -15,7 +15,10 @@ yarn dev
 * File & Folder Structure
 * CSS writing structure
 * Responsive Mobile Menu
+* Applying gradient effects
 * Draw Circle Component with styling
+* Last items margin right programmatically control
+* onClick={() => window.open(social.link)}
 
 
 <!-- https://youtu.be/_oO4Qi5aVZs -->

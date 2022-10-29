@@ -1,7 +1,7 @@
 import { navLinks } from '../constants';
+import { useState } from 'react';
 import styles from '../styles'
 import images from '../assets'
-import { useState } from 'react';
 
 const Navbar = () => {
 

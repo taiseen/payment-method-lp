@@ -1,4 +1,4 @@
-import GetStarted from './GetStarted';
+import { GetStarted } from '.';
 import images from '../assets'
 import styles from '../styles'
 
